@@ -17,3 +17,9 @@ The lab consists of dedicated hardware running Proxmox VE and Hyper-V, allowing 
   - File Server
 - Ubuntu Server
   - Web Server
+
+## Table of Contents
+
+| Project | Description |
+|----------|-------------|
+| [Infrastructure](./01-infrastructure/README.md) | Physical and virtual lab architecture |
