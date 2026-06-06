@@ -23,3 +23,4 @@ The lab consists of dedicated hardware running Proxmox VE and Hyper-V, allowing 
 | Project | Description |
 |----------|-------------|
 | [Infrastructure](./01-infrastructure/README.md) | Physical and virtual lab architecture |
+| [Proxmox Virtual Environment](./02-proxmoxve/README.md) | Bare-metal hypervisor |
