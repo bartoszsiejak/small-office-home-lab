@@ -32,3 +32,16 @@ This section covers the deployment, configuration, and issues related to Proxmox
 * http://deb.debian.org/debian/
 * http://security.debian.org/debian-security/
 * http://download.proxmox.com/debian/pve
+
+#### Virtual Machines
+
+| VM | IP Address | Role |
+|----------|----------|----------|
+| WINSERV-01 | 192.168.254.10 | Active Directory Domain Controller, File Server, DHCP, DNS |
+
+#### Containers
+
+| VM | IP Address | Role |
+|----------|----------|----------|
+| UBUNTU-01 | 192.168.254.20 | Apache Server |
+

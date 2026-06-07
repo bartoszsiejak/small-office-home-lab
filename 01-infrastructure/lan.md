@@ -25,7 +25,12 @@ This page describes my lab's LAN.
 |----------|----------|----------|
 | WINSERV-01 | 192.168.254.10 | Active Directory Domain Controller, File Server, DHCP, DNS |
 | WIN11-01 | DHCP Assigned | Simulated User Workstation |
-| UBUNTU-01 | 192.168.254.20 | Linux Server |
+
+### Containers
+
+| VM | IP Address | Role |
+|----------|----------|----------|
+| UBUNTU-01 | 192.168.254.20 | Apache Server |
 
 ## DHCP
 
