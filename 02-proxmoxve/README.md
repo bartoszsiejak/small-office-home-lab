@@ -1,6 +1,6 @@
 # Proxmox Virtual Environment
 
-[← Back To Home](../README.md)
+[← Back To Home](../README.md) | [Next: Windows Server 2022 →](../03-windowsserver2022/README.md)
 
 ## Overview
 
