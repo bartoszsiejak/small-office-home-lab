@@ -45,3 +45,9 @@ This section covers the deployment, configuration, and issues related to Proxmox
 |----------|----------|----------|
 | UBUNTU-01 | 192.168.254.20 | Apache Server |
 
+#### Physical Disks Configuration
+
+| Disk | Model | Capacity | Content |
+|----------|----------|----------|----------|
+| /dev/sda | SSD | 512 GB| OS, VM Disks, Containers |
+| /dev/sdb | HDD | 2 TB| Backup, ISO Image |
