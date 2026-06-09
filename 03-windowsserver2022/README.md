@@ -9,6 +9,7 @@ This section presents the configuration of Windows Server 2022 with all services
 ## System Configuration
 
 * **Hostname:** WINSERV-01
+* **Active Directory domain:** siejak.local
 * **IPv4 address:** 192.168.254.10
 * **IPv6:** Disabled
 
