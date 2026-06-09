@@ -49,7 +49,7 @@ The file server provides centralized storage for user profiles and shared folder
 - **NTFS permissions:**
   - Authenticated Users – Read, write & execute
   - Domain Admins – Full Control
-- **Purpose:** User folder redistribution storage
+- **Purpose:** User folder redirection storage
 
 
 
