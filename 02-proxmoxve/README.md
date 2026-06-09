@@ -27,7 +27,7 @@ This section covers the deployment, configuration, and issues related to Proxmox
 - **DNS server:** 192.168.254.1
 - **Gateway:** 192.168.254.1
 
-#### Update sources (only no-subscription)
+#### Update sources (no-subscription sources)
 
 * http://deb.debian.org/debian/
 * http://security.debian.org/debian-security/
