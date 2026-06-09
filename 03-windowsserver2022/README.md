@@ -12,6 +12,13 @@ This section presents the configuration of Windows Server 2022 with all services
 * **IPv4 address:** 192.168.254.10
 * **IPv6:** Disabled
 
+## Services
+
+| Project | Description |
+|----------|-------------|
+| [File Server](./fileserver.md) | Shared file storage for centralized user profile storage. |
+
+
 ## Virtual Hardware Configuration
 
 ![Virtual Hardware](./screenshots/hardware.png)
