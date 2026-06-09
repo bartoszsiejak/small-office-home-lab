@@ -29,16 +29,30 @@ The file server provides centralized storage for user profiles and shared folder
 ## Share Configuration
 
 
-* **Name:** Shared  
+### Shared  
+
 * **Local path:** S:\Shares\Shared  
 * **Network path:** \\WINSERV-01\Shared  
-
-### Permissions
-
-* **Share permissions:** Authenticated Users (Read-only)  
+* **Share permissions:** Authenticated Users - Read-only
 * **NTFS permissions:**
   * Domain Users – Read-only  
   * Administrators – Full Control
+* **Purpose:** Shared file storage
+
+### UserData$  
+
+- **Local path:** S:\Shares\UserData  
+- **Network path:** \\WINSERV-01\UserData  
+- **Share permissions:** 
+  - Authenticated Users - Change
+  - Domain Admins Full Control
+- **NTFS permissions:**
+  - Authenticated Users – Read, write & execute
+  - Domain Admins – Full Control
+- **Purpose:** User folder redistribution storage
+
+
+
 
 ## Screenshots
 
@@ -61,7 +75,9 @@ The file server provides centralized storage for user profiles and shared folder
 ### NTFS Permissions
 
 ![NTFS Permissions](./screenshots/ntfspermissions.png)
+![NTFS Permissions](./screenshots/ntfspermissions2.png)
 
 ### Share Permissions
 
 ![Share Permissions](./screenshots/sharepermission.png)
+![Share Permissions](./screenshots/sharepermission2.png)
