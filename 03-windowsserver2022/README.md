@@ -17,6 +17,7 @@ This section presents the configuration of Windows Server 2022 with all services
 
 | Project | Description |
 |----------|-------------|
+| [DHCP](./dhcp.md) | Dynamic Host Configuration Protocol  |
 | [File Server](./fileserver.md) | Shared file storage for centralized user profile storage. |
 
 
