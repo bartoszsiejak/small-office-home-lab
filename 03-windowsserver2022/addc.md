@@ -39,6 +39,10 @@ Brute force attack prevention.
 
 ![OU](./screenshots/gposplacement.png)
 
+### Security Groups
+
+![OU](./screenshots/SecurityGroups.png)
+
 ### Folder Redirection
 
 ![OU](./screenshots/Folder%20Redirection.png)
