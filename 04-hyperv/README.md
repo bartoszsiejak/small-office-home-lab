@@ -29,6 +29,14 @@ This section documents a Windows 11 Enterprise virtual machine running on Hyper-
 
 The Windows 11 VM is joined to the Active Directory domain (siejak.local).
 
+### Configuration
+
+Installed RSAT for managing the Windows Server on the desktop.
+
+### Verification
+
+I checked whether all applied GPOs, shared drive (permissions) worked like expected.
+
 ## Screenshots
 
 ### VM Settings
@@ -36,4 +44,13 @@ The Windows 11 VM is joined to the Active Directory domain (siejak.local).
 ![VM settings](./screenshots/vmsettings.png)
 
 ### Domain verification (systeminfo output)
+
 ![VM settings](./screenshots/systeminfo.png)
+
+### Resultant Set Of Policy
+
+![RSOP](./screenshots/rsop.png)
+
+### RSAT
+
+![RSAT](./screenshots/rsat.png)

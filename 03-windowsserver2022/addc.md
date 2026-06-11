@@ -28,6 +28,13 @@ Brute force attack prevention.
 * **Allow administrator account lockout** Enabled 
 * **Reset account lockout counter after** 30 minutes 
 
+### Shared Drive Mapping
+
+* **Letter** S 
+* **Location** \\WINSERV-01\Shared 
+* **Reconnect** Disabled 
+* **Label as** Shared Drive 
+
 
 ## Screenshots
 
@@ -54,4 +61,8 @@ Brute force attack prevention.
 ### Account Lockout Policy
 
 ![OU](./screenshots/lockout.png)
+
+### Mapping Drive Policy
+
+![OU](./screenshots/mapping.png)
 

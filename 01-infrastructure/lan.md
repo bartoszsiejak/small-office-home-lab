@@ -5,7 +5,6 @@
 This page describes my lab's LAN.
 
 ## IP Adressing
-* **IPv6:** Disabled
 * **Network:** 192.168.254.0
 * **Subnet:** 255.255.255.0
 * **Gateway:** 192.168.254.1
