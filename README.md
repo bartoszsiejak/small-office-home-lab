@@ -26,5 +26,6 @@ The lab consists of dedicated hardware running Proxmox VE and Hyper-V, allowing 
 | [Proxmox Virtual Environment](./02-proxmoxve/README.md) | Bare-metal hypervisor |
 | [Windows Server 2022](./03-windowsserver2022/README.md) | Windows Server 2022 Configuration Running AD DS, DNS, DHCP, and File Services |
 | [Hyper-V](./04-hyperv/README.md) | Hyper-V running on my personal laptop |
+| [Ubuntu Server](./04-hyperv/README.md) | Proxmox Ubuntu LXC Container Joined to Active Directory |
 
 

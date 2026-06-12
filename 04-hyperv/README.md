@@ -1,6 +1,7 @@
 # Hyper-V
 
-[← Back To Home](../README.md)
+[← Back To Home](../README.md) | [Next: Ubuntu Server →](../05-ubuntu/README.md)
+
 
 ## Overview
 
