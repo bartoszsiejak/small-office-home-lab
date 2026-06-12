@@ -51,3 +51,17 @@ This section covers the deployment, configuration, and issues related to Proxmox
 |----------|----------|----------|----------|
 | /dev/sda | SSD | 512 GB| OS, VM Disks, Containers |
 | /dev/sdb | HDD | 2 TB| Backup, ISO Image |
+
+## Screenshots
+
+### pve01
+
+![Overview](./screenshots/pve01overview.png)
+
+### pve01 Network Settings
+
+![Network](./screenshots/pve01network.png)
+
+### pve01 Update APT repos
+
+![Repos](./screenshots/pve01repos.png)
