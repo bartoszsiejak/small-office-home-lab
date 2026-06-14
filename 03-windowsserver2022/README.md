@@ -19,6 +19,7 @@ This section presents the configuration of Windows Server 2022 with all services
 |----------|-------------|
 | [AD DC](./addc.md) | Active Directory Domain Services, OUs, GPOs |
 | [DHCP](./dhcp.md) | Dynamic Host Configuration Protocol  |
+| [DNS](./dns.md) | Domain Name System hosted on Windows Server|
 | [File Server](./fileserver.md) | Shared file storage for centralized user profile storage. |
 
 

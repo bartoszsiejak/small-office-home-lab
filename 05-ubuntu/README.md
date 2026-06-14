@@ -36,7 +36,7 @@ Configured domain features include:
 3. Added the AD group `IT-Admins` to the sudoers configuration
 4. Verified domain user login and sudo permissions
 
-## Apache Settings
+## Apache Intranet Settings
 
 * **Web root:** `/var/www/intranet`
 * **Virtual hosts** `/etc/apache2/sites-available/`
