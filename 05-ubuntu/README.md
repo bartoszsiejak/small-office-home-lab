@@ -36,6 +36,11 @@ Configured domain features include:
 3. Added the AD group `IT-Admins` to the sudoers configuration
 4. Verified domain user login and sudo permissions
 
+## Apache Settings
+
+* **Web root:** `/var/www/intranet`
+* **Virtual hosts** `/etc/apache2/sites-available/`
+
 ## Screenshots
 
 ### Domain Join Verification
@@ -49,3 +54,14 @@ Configured domain features include:
 ![PROXMOX](./screenshots/networkpve.png)
 
 ![PROXMOX](./screenshots/resourcespve.png)
+
+### Apache - Intranet Virtual Host
+
+![Intranet](./screenshots/virtualhost.png)
+
+
+### Apache - Intranet
+
+![Intranet](./screenshots/intranet.png)
+
+
